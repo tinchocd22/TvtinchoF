@@ -1,34 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1, Espn Premium
-https://xky9q.envivoslatam.org/espnpremium/tracks-v1a1/mono.m3u8?ip=152.168.46.113&token=0b965bbb1e8ef327153f28dc293da1e7e353e662-b2-1772253247-1772199247
+#EXTINF-1,Espn Premium
+http://207.246.114.254:25461/live/gabysports/gabysports/3121.m3u8
+#EXTINF:-1,Espn Premium Op1
+http://redworld.pro:8880/luis738049207/98756479239/327917
+#EXTINF:-1,Espn Premium OP2
+http://redworld.pro:8880/luis738049207/98756479239/486077
 
-#EXTINF:-1, TNT Premium
-https://kh5vy.envivoslatam.org/tntsports/tracks-v1a1/mono.m3u8?ip=152.168.46.113&token=82af570dd73001ccf7780f1e9837b2e77815d430-bd-1772253926-1772199926
-
-#EXTINF-1, TYC SPORT
-https://smjt9q.envivoslatam.org/tycsports/tracks-v1a1/mono.m3u8?ip=152.168.46.113&token=0bba5af720f1724a9c835458353f7b9587271cb0-db-1772254024-1772200024
-
-#EXTINF-1, DS SPORT
-https://vg7ie.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=152.168.46.113&token=e413c8fa4a004257aa82ef201a29717df806c0ab-74-1772254118-1772200118
-
-#EXTINF-1, FOX SPORT
-https://mze7u.envivoslatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=152.168.46.113&token=578f3fc62b0eafc454ca1cdb5e49a8ad216aa7c0-17-1772254199-1772200199
-
-#EXTINF-1, TELEFE
-http://107.152.39.199:8030/hls/canal13.m3u8
-
-#EXTINF-1, EL TRECE
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-
-#EXTINF-1, EL NUEVE
-http://107.152.39.199:8030/hls/canal7.m3u8
-
-#EXTINF-1, AMERICA
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-
-#EXTINF-1,Los simpsons
-http://clubtv.link/01oct/phpcode/24.php?c=simpson_maniahd193&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF-1, friends
-http://104.238.205.28:25461/get/ZL48Sef0czH87eKsFFEPklFidlpjdTF4Zml2Yk5DZ2F1dUgwb3dtUlZockliYnZjbTZWTmtvTVNsU3NxUGlNUTc0bTVGS2ZzSHJpNC9TdHVTbWZUanJlK0Y0QnY5bk9JUHAxZTl3PT0.m3u8
+#EXTINF-1,Tnt Sport
+http://207.246.114.254:25461/live/gabysports/gabysports/3169.m3u8
+#EXTINF:-1,Tnt Sport Opc 2
+http://redworld.pro:8880/luis738049207/98756479239/327919
