@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 type="movie" group-title="Películas",Test Video
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://files.catbox.moe/utk7ww.jpg",La Pistola Desnuda
+http://ultrax.online:8080/movie/997666249tv/hypxsw64/9947.mkv
