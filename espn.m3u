@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 type="movie" tvg-logo="https://files.catbox.moe/utk7ww.jpg",La Pistola Desnuda
+#EXTINF:-1 group-title="Películas" ,La Pistola Desnuda
 http://ultrax.online:8080/movie/997666249tv/hypxsw64/9947.mkv
