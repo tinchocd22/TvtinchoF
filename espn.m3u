@@ -5,9 +5,7 @@ http://207.246.114.254:25461/live/gabysports/gabysports/3121.m3u8
 #EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
 http://207.246.114.254:25461/live/gabysports/gabysports/3354.m3u8
 #EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
-http://redworld.pro:8880/luis738049207/98756479239/327917
-#EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
-http://redworld.pro:8880/luis738049207/98756479239/486077
+http://192.168.0.107:5000
 
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://files.catbox.moe/hmn03p.png",TNT Sport
 http://207.246.114.254:25461/live/gabysports/gabysports/3169.m3u8
