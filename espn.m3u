@@ -12,6 +12,8 @@ http://181.209.37.74:8001/play/a086/index.m3u8
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9550
 #EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium 
 http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/81254.ts
+#EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium 
+http://tv.diablotv.net:8080/9AhwRKcpLM/ee9fddb05151/157562
 
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports
 http://207.246.114.254:25461/live/gabysports/gabysports/3169.m3u8
@@ -22,14 +24,13 @@ http://redworld.pro:8880/luis738049207/98756479239/327919
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports 
 http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/81284.ts
 
-#EXTINF:-1 tvg-id="Dsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",Dsport
+#EXTINF:-1 tvg-id="Dsport" tvg-logo="https://iili.io/qopkq0P.png",Dsport
 http://217.26.190.76:8888/play/a0co/index.m3u8
+#EXTINF:-1 tvg-id="Dsport" tvg-logo="https://iili.io/qopkq0P.png",Dsport 
+https://xtream.videx.lol/Yoshiro/admin/424.m3u8
 
-#EXTINF:-1 tvg-id="Dsport +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/960px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",Dsport +
+#EXTINF:-1 tvg-id="Dsport +" tvg-logo="https://iili.io/qopSTzb.png",Dsport +
 http://217.26.190.76:8888/play/a0jb/index.m3u8
-
-#EXTINF:-1 tvg-id="Formula 1" tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png",Formula 1 
-http://matrivagoweb.xyz:8080/5322637/123456/369754
 
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://iili.io/qoynoaj.jpg",Fin del Mundo 2
 http://ultrax.online:8080/movie/997666249tv/hypxsw64/279705.mkv
@@ -97,3 +98,13 @@ http://matrivagoweb.xyz:8080/movie/993372393/142536/293423.mkv
 http://matrivagoweb.xyz:8080/movie/993372393/142536/292741.mkv
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qx9fQx1.jpg",Loca Academia de Piloto 2
 http://matrivagoweb.xyz:8080/movie/993372393/142536/292742.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qInd69p.jpg",Tonto y Retonto
+http://tv.diablotv.net:8080/movie/9AhwRKcpLM/ee9fddb05151/7311.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qInTvF2.jpg",Las Vacaciones de Mrs Bean
+http://tv.diablotv.net:8080/movie/9AhwRKcpLM/ee9fddb05151/7431.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qInk6b9.jpg",Adorable Criatura
+http://tv.diablotv.net:8080/movie/9AhwRKcpLM/ee9fddb05151/7464.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qInsUNf.jpg",Viaje Censurado
+http://tv.diablotv.net:8080/movie/9AhwRKcpLM/ee9fddb05151/7475.mkv
+#EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qInpQu1.jpg",Ciego, Sordo y Locos
+http://tv.diablotv.net:8080/movie/9AhwRKcpLM/ee9fddb05151/7483.mkv
