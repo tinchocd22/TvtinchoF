@@ -28,6 +28,9 @@ http://217.26.190.76:8888/play/a0co/index.m3u8
 #EXTINF:-1 tvg-id="Dsport +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/960px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",Dsport +
 http://217.26.190.76:8888/play/a0jb/index.m3u8
 
+#EXTINF:-1 tvg-id="Formula 1" tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png",Formula 1 
+http://matrivagoweb.xyz:8080/5322637/123456/369754
+
 #EXTINF:-1 type="movie" group-title="2026" tvg-logo="https://iili.io/qoynoaj.jpg",Fin del Mundo 2
 http://ultrax.online:8080/movie/997666249tv/hypxsw64/279705.mkv
 #EXTINF:-1 type="movie" group-title="Comedia" tvg-logo="https://iili.io/qoyxwvf.jpg",Despedida de Soltero
