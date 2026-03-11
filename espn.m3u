@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
-http://207.246.114.254:25461/live/gabysports/gabysports/3121.m3u8
+##EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium
+http://181.209.125.236:10000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium 
 http://207.246.114.254:25461/live/gabysports/gabysports/3354.m3u8
 #EXTINF:-1 tvg-id="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",Espn Premium 
@@ -18,13 +18,14 @@ http://tv.diablotv.net:8080/9AhwRKcpLM/ee9fddb05151/157562
 http://dplatino.net:80/live/credito3geotv/car26octtv/81254.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports
-http://207.246.114.254:25461/live/gabysports/gabysports/3169.m3u8
+http://181.209.125.236:10000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports 
 http://207.246.114.254:25461/live/gabysports/gabysports/3398.m3u8
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports 
 http://redworld.pro:8880/luis738049207/98756479239/327919
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://iili.io/qopndRp.png",TNT Sports 
 http://daleplaytv.vip:80//live/B002F0072A7E/02F0072A7EB0/81284.ts
+
 
 #EXTINF:-1 tvg-id="Formula 1" tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png",Formula 1
 http://matrivagoweb.xyz:8080/5322637/123456/369754
